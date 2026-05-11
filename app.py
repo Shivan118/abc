@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 
 app = Flask(__name__)
-support_number = "62809641256"
+support_number = "+91 62809641256"
 @app.route('/'):
 def index():
     return "Hello shivan18july1997@gmail.com
